@@ -7,7 +7,7 @@ To-Do List using HTML ,CSS and Vanilla JS.
 You can check it here: [ToDoList-Webapp](https://github.com/rajput3006/Todolist-Webapp
 
 ### 🔗 Demo
-Check out the live demo: [ToDoList-Webapp](https://github.com/rajput3006/Todolist-Webapp)
+Check out the live demo: [ToDoList-Webapp]((https://rajput3006.github.io/ToDoList-Webapp/))
 ### 📂 Project Structure
 | File      | Description                                              |
 |-----------|----------------------------------------------------------|
